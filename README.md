@@ -3,6 +3,7 @@
 __What are docker image and docker containers?__
 
 >Docker Images are Templates used to create Docker Container
+
 >Container is a running instance of an image
 
 ## Basic Commands
@@ -120,6 +121,7 @@ docker history <image name/id>
 __What is a dockerfile?__
 
 > A Dockerfile is a simple text file with instruction to build images
+
 > Automation of docker image creation
 
 ![Dockerfile](https://i2.wp.com/miro.medium.com/max/1273/1*p8k1b2DZTQEW_yf0hYniXw.png?w=810&ssl=1)
